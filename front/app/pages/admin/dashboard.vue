@@ -7,7 +7,7 @@
           <i class="pi pi-home text-slate-600 text-xs"></i>
         </NuxtLink>
         <div>
-          <h1 class="font-black italic text-slate-900 text-xl leading-none uppercase tracking-tighter">Byrion <span class="text-cyan-600">Admin</span></h1>
+          <h1 class="font-black italic text-slate-900 text-xl leading-none uppercase tracking-tighter">Byron <span class="text-cyan-600">Admin</span></h1>
           <p class="text-[9px] font-black text-slate-400 uppercase tracking-[0.2em] mt-1 italic leading-none">Global Dashboard</p>
         </div>
       </div>

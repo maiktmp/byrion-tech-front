@@ -7,7 +7,7 @@
           <i class="pi pi-arrow-left text-slate-600 text-xs"></i>
         </NuxtLink>
         <div class="flex flex-col">
-          <h1 class="font-black italic text-slate-900 text-xl leading-none uppercase tracking-tighter">Byrion <span class="text-cyan-600">Store</span></h1>
+          <h1 class="font-black italic text-slate-900 text-xl leading-none uppercase tracking-tighter">Byron <span class="text-cyan-600">Store</span></h1>
           <span class="text-[9px] font-bold text-slate-400 uppercase tracking-widest mt-0.5 italic">Refacciones de Precisión</span>
         </div>
       </div>

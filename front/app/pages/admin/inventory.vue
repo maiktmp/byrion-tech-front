@@ -7,7 +7,7 @@
           <i class="pi pi-arrow-left text-slate-600 text-xs"></i>
         </NuxtLink>
         <div class="flex flex-col">
-          <h1 class="font-black italic text-slate-900 text-lg leading-none uppercase tracking-tighter">Byrion <span class="text-cyan-600">Admin</span></h1>
+          <h1 class="font-black italic text-slate-900 text-lg leading-none uppercase tracking-tighter">Byron <span class="text-cyan-600">Admin</span></h1>
           <span class="text-[9px] font-bold text-slate-400 uppercase tracking-widest mt-0.5 italic">Dashboard Principal</span>
         </div>
       </div>
@@ -15,7 +15,7 @@
     </header>
 
     <!-- Side Menu -->
-    <Drawer v-model:visible="visible" header="Byrion Menu" class="!w-72 !rounded-r-[2rem]">
+    <Drawer v-model:visible="visible" header="Byron Menu" class="!w-72 !rounded-r-[2rem]">
       <div class="flex flex-col gap-2 mt-4">
         <Button v-for="item in menuItems" :key="item.label" :label="item.label" :icon="item.icon" text :class="['!justify-start !rounded-2xl !py-4 !px-4 !font-bold !text-xs !uppercase !tracking-widest', item.active ? '!bg-cyan-50 !text-cyan-600' : '!text-slate-500']" @click="visible = false" />
       </div>

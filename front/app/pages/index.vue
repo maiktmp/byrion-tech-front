@@ -8,7 +8,7 @@
         <div class="w-20 h-20 bg-cyan-600 rounded-[2.5rem] flex items-center justify-center shadow-lg shadow-cyan-200 mb-6">
           <i class="pi pi-print text-4xl text-white"></i>
         </div>
-        <h1 class="text-4xl font-black text-slate-900 tracking-tight mb-2 uppercase italic">Byrion <span class="text-cyan-600">Tech</span></h1>
+        <h1 class="text-4xl font-black text-slate-900 tracking-tight mb-2 uppercase italic">Byron <span class="text-cyan-600">Tech</span></h1>
         <p class="text-slate-500 font-medium italic">Sistemas de Impresión Industrial & Refacciones</p>
       </div>
 
@@ -27,7 +27,7 @@
       </div>
 
       <p class="mt-12 text-[10px] text-slate-400 font-black tracking-[0.3em] uppercase italic">
-        Powered by Byrion Precision System © 2026
+        Powered by Byron Precision System © 2026
       </p>
     </div>
   </div>

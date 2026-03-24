@@ -7,7 +7,7 @@
           <i class="pi pi-arrow-left mr-2"></i> Inicio
         </NuxtLink>
         <h1 class="text-4xl md:text-6xl font-black italic text-white uppercase tracking-tighter leading-none mb-4">
-          Byrion <span class="text-cyan-200">Refacciones</span>
+          Byron <span class="text-cyan-200">Refacciones</span>
         </h1>
         <p class="text-white/90 font-medium italic max-w-sm mx-auto text-sm leading-relaxed">
           Calidad certificada para prolongar la vida útil de tus equipos de impresión de alta gama.
@@ -39,7 +39,7 @@
       </div>
 
       <section class="p-12 bg-white rounded-[3rem] shadow-2xl shadow-slate-200 text-center">
-        <h3 class="text-[10px] font-black text-cyan-600 uppercase tracking-[0.4em] mb-10 italic underline underline-offset-8">¿Por qué Byrion?</h3>
+        <h3 class="text-[10px] font-black text-cyan-600 uppercase tracking-[0.4em] mb-10 italic underline underline-offset-8">¿Por qué Byron?</h3>
         <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
           <div v-for="stat in stats" :key="stat.label">
             <div class="text-3xl font-black text-slate-900 italic tracking-tighter mb-1">{{ stat.value }}</div>
@@ -58,7 +58,7 @@
       </section>
 
       <footer class="text-center pb-12">
-        <p class="text-[9px] font-black uppercase tracking-[0.4em] text-slate-300 italic">Byrion Precision Tech | Refacciones Premium</p>
+        <p class="text-[9px] font-black uppercase tracking-[0.4em] text-slate-300 italic">Byron Precision Tech | Refacciones Premium</p>
       </footer>
     </div>
   </div>

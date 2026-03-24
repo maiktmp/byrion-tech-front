@@ -1,4 +1,4 @@
-import { ByrionTheme } from './theme.config';
+import { ByronTheme } from './theme.config';
 
 export default defineNuxtConfig({
   ssr: false,
@@ -13,7 +13,7 @@ export default defineNuxtConfig({
   primevue: {
     options: {
       theme: {
-        preset: ByrionTheme,
+        preset: ByronTheme,
         options: {
           darkModeSelector: '.dark-mode',
           cssLayer: {
@@ -30,7 +30,7 @@ export default defineNuxtConfig({
   ],
   app: {
     head: {
-      title: 'Byrion Tech - Refacciones de Impresión de Precisión',
+      title: 'Byron Tech - Refacciones de Impresión de Precisión',
       meta: [
         { charset: 'utf-8' },
         { name: 'viewport', content: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0' },

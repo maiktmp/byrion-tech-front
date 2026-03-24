@@ -1,5 +1,5 @@
 {
-  "name": "byrion-root",
+  "name": "byron-root",
   "private": true,
   "scripts": {
     "install": "cd front && npm install",

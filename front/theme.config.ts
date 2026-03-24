@@ -1,7 +1,7 @@
 import Aura from '@primevue/themes/aura';
 import { definePreset } from '@primevue/themes';
 
-export const ByrionTheme = definePreset(Aura, {
+export const ByronTheme = definePreset(Aura, {
     semantic: {
         borderRadius: '16px',
         primary: {
