@@ -1,6 +1,8 @@
 <template>
   <div class="font-inter antialiased min-h-screen bg-slate-50">
-    <NuxtPage />
+    <NuxtLayout>
+      <NuxtPage />
+    </NuxtLayout>
   </div>
 </template>
 

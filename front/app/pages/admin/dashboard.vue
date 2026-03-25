@@ -99,6 +99,9 @@
 </template>
 
 <script setup>
+definePageMeta({
+  layout: false,
+});
 import { ref } from 'vue';
 import Button from 'primevue/button';
 import Avatar from 'primevue/avatar';

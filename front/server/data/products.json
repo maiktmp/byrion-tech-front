@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Rodillo Fusor Pro",
+    "brand": "BYRON-PREMIUM",
+    "price": "1250.00",
+    "compatibility": "HP M402, M404, M426",
+    "stock": 24,
+    "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?q=80&w=600&auto=format&fit=crop",
+    "description": "Componente crítico de alta precisión diseñado para soportar temperaturas de hasta 220°C."
+  },
+  {
+    "id": 2,
+    "name": "Cabezal Térmico XP",
+    "brand": "BYRON-TECH",
+    "price": "3800.00",
+    "compatibility": "Zebra ZT410, ZT411",
+    "stock": 8,
+    "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?q=80&w=600&auto=format&fit=crop",
+    "description": "Cabezal de impresión térmica de 203 DPI. Diseñado para impresión de etiquetas de alta densidad."
+  },
+  {
+    "brand": "BYRON-GEN",
+    "name": "Impresora Byron",
+    "price": "500",
+    "stock": "3",
+    "compatibility": "Total",
+    "image": "https://plus.unsplash.com/premium_photo-1682147377676-f33fa2cc20eb?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "Esta impresa cumple con todos los requisitos etc etc.",
+    "id": 3
+  }
+]
